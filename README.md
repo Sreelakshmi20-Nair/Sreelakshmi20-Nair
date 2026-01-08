@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Sreelakshmi!
 
-<!--
-**Sreelakshmi20-Nair/Sreelakshmi20-Nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Postgraduate Diploma in Cybersecurity  
+📚 Applied Artificial Intelligence (Co-op) Student  
+🇨🇦 Based in Canada  
 
-Here are some ideas to get you started:
+I’m building secure systems and intelligent solutions — blending cybersecurity fundamentals with AI and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Skills
+
+**Cybersecurity:**  
+🔹 Network & System Security  
+🔹 IDS/IPS (Suricata)  
+🔹 SIEM & Log Analysis (Sigma, Sumo Logic)  
+🔹 SSH hardening & firewall configs  
+
+**AI & Programming:**  
+🔹 Python  
+🔹 Data Analysis (Pandas, NumPy)  
+🔹 Machine Learning (beginner)  
+🔹 Automation & scripts  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Cybersecurity
+- **Suricata IDS/IPS Lab** – custom detection rules & alert analysis  
+- **Sigma & SIEM Analysis** – Sigma rules and log query conversions  
+- **SSH Hardening Lab** – secure SSH configs  
+- **Firewall & Network Security Labs** – ASA firewall setups
+
+### 🤖 AI / Data
+- **Web Scraping + Data Tasks** – data extraction and processing
+
+*(Each project has a detailed repository README)*
+
+---
+
+## 📫 Let’s Connect
+
+🔗 GitHub: https://github.com/Sreelakshmi20-Nair  
+🔗 LinkedIn: https://www.linkedin.com/in/sreelakshmi-nair-869272262/
+
+⭐ Feel free to explore my repositories!
+
+
