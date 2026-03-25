@@ -34,7 +34,11 @@ I’m building secure systems and intelligent solutions — blending cybersecuri
 
 ### 🤖 AI / Data
 - **Web Scraping + Data Tasks** – data extraction and processing
-- 
+- **Real Time Survilience System** – high-accuracy intruder detection and rapid response alerts.
+-  **Agentic Predictive Maintenance Planner** – integrated a Deep Learning RUL model with an LLM-based agent.
+-  **Healthcare NLP – Prescription Parser** – Designed a CRF-based NLP pipeline using spaCy and NLTK.
+-   **Stellar Classification Model** – Random Forest classifier.
+-    **AutoFeatureSelector** – modular Python tool.
 
 *(Each project has a detailed repository README)*
 
