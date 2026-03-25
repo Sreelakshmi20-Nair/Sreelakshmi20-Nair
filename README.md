@@ -34,6 +34,7 @@ I’m building secure systems and intelligent solutions — blending cybersecuri
 
 ### 🤖 AI / Data
 - **Web Scraping + Data Tasks** – data extraction and processing
+- 
 
 *(Each project has a detailed repository README)*
 
