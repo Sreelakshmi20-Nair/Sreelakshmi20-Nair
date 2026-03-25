@@ -2,7 +2,7 @@
 
 🎓 Postgraduate Diploma in Cybersecurity  
 📚 Applied Artificial Intelligence (Co-op) Student  
-🇨🇦 Based in Canada  
+ Based in Canada  
 
 I’m building secure systems and intelligent solutions — blending cybersecurity fundamentals with AI and automation.
 
